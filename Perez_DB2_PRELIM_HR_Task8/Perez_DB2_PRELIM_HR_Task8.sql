@@ -1,0 +1,1 @@
+SELECT job_title, max_salary-min_salary FROM "perez_HR".jobs WHERE max_salary>= 12000 AND max_salary<=18000;

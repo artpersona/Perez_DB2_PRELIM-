@@ -1,0 +1,1 @@
+SELECT first_name,last_name,department_id FROM "perez_HR".employees WHERE last_name = 'McEwen';

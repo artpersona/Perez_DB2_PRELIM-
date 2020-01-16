@@ -1,0 +1,1 @@
+UPDATE "perez_HR".jobs SET job_title = 'Database Administrator' WHERE job_title ='Database Developer';
